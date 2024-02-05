@@ -5,7 +5,9 @@ Este es mi Proyecto DAW para el Ciclo Formativo de Grado Superior de Desarrollo 
 
 **Aplicación web para la gestión del seguimiento de envío de currículos a ofertas de empleo y/o prácticas en empresa.**
 
-**Tiempo de realización**: 20/10/2023 a 05/12/2023
+**Tiempo de realización:** 20/10/2023 a 05/12/2023
+
+**Métodología utilizada:** Cascada e Iterativa Incremental.
 
 **Necesidades y finalidad.**
 La realización de este proyecto parte de la necesidad de tener en un mismo lugar registradas todas las ofertas de trabajo a las que hemos aplicado por distintos medios, con la finalidad de tenerlas centralizadas para poder ser consultadas.
@@ -71,7 +73,7 @@ Los Requisitos Funcionales son los siguientes, agrupados por Casos de Uso
 8.	La aplicación será compatible con los navegadores Google Chrome, Microsoft Edge y Firefox. 
 9.	La aplicación empleará CSS flexbox, para la creación de un diseño responsive.
 
-Pasos seguidos en el desarrollo del proyecto: 
+**Pasos seguidos en el desarrollo del proyecto:** 
 
 * a.	Implementación de la base de datos diseñada.
 * b.	Realización del apartado de ofertas: listarlas, agregarlas, modificarlas y eliminarlas.
