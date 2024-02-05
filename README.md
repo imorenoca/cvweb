@@ -31,6 +31,7 @@ La realización de este proyecto parte de la necesidad de tener en un mismo luga
 Visual Studio Code: editor utilizado para la codificación de HTML, CSS, JavaScript y php. Permite la utilización de plugins que facilitan la labor de programación y total integración con Git.
 
 **Requisitos Funcionales**
+
 Los Requisitos Funcionales son los siguientes, agrupados por Casos de Uso
 1.	Usuario no registrado puede hacer Registro, pueden registrarse como rol usuario si el usuario no existe y es válido.
 2.	Usuario registrado puede iniciar sesión y cerrar sesión. Dos tipos de usuarios registrados por rol: administrador y usuario.
