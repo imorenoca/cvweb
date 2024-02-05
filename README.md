@@ -27,10 +27,10 @@ La realización de este proyecto parte de la necesidad de tener en un mismo luga
 * SQL, creación del modelo conceptual, lógico y físico de la base de datos que alimenta la aplicación web; así como la definición, manipulación y control de datos. 
 * php. Se ha utilizado para la generación dinámica de páginas web y acceso a datos, manejando las peticiones del cliente y mostrando las respuestas del servidor. 
 
-Entorno de Desarrollo Integrado (IDE):
+**Entorno de Desarrollo Integrado (IDE):**
 Visual Studio Code: editor utilizado para la codificación de HTML, CSS, JavaScript y php. Permite la utilización de plugins que facilitan la labor de programación y total integración con Git.
 
-Requisitos Funcionales
+**Requisitos Funcionales**
 Los Requisitos Funcionales son los siguientes, agrupados por Casos de Uso
 1.	Usuario no registrado puede hacer Registro, pueden registrarse como rol usuario si el usuario no existe y es válido.
 2.	Usuario registrado puede iniciar sesión y cerrar sesión. Dos tipos de usuarios registrados por rol: administrador y usuario.
@@ -58,7 +58,8 @@ Los Requisitos Funcionales son los siguientes, agrupados por Casos de Uso
  c.	Añadir contactos.
  d.	Eliminar contactos.
 
-Los Requisitos no funcionales son los siguientes
+**Requisitos no funcionales:**
+
 1.	La aplicación deberá manejar y mostrar mensajes de error. 
 2.	El diseño general de la aplicación debe ser homogéneo.
 3.	La aplicación no mostrará ninguna publicidad.
@@ -71,14 +72,14 @@ Los Requisitos no funcionales son los siguientes
 
 Pasos seguidos en el desarrollo del proyecto: 
 
-a.	Implementación de la base de datos diseñada.
-b.	Realización del apartado de ofertas: listarlas, agregarlas, modificarlas y eliminarlas.
-c.	Añadir Login y Registro a la aplicación.
-d.	Desarrollo del Rol de administrador.
-e.	Apartado de empresas: listarlas, agregarlas, modificarlas y eliminarlas.
-f.	Apartado de envíos: listarlos, agregarlos, modificarlos y eliminarlos.
-g.	Apartado de contactos: listarlos, agregarlos, modificarlos y eliminarlos.
-h.	Revisión de menús, operatividad conjunta y funcionalidad general.
+* a.	Implementación de la base de datos diseñada.
+* b.	Realización del apartado de ofertas: listarlas, agregarlas, modificarlas y eliminarlas.
+* c.	Añadir Login y Registro a la aplicación.
+* d.	Desarrollo del Rol de administrador.
+* e.	Apartado de empresas: listarlas, agregarlas, modificarlas y eliminarlas.
+* f.	Apartado de envíos: listarlos, agregarlos, modificarlos y eliminarlos.
+* g.	Apartado de contactos: listarlos, agregarlos, modificarlos y eliminarlos.
+* h.	Revisión de menús, operatividad conjunta y funcionalidad general.
 
  
-**Finalidad del repositorio: Mejorar el código desarrollado, quitar redundancias, código duplicado, utilización de enrutamiento.**
+
