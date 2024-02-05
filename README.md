@@ -3,7 +3,7 @@ Proyecto DAW.
 
 Este es mi Proyecto DAW para el Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Web.
 
-**Finalidad del repositorio: Mejorar el código desarrollado, quitar redundancias, código duplicado, utilización de enrutamiento, etc.**
+**Finalidad del repositorio: Mejorar el código desarrollado, quitar código duplicado, utilización de enrutamiento, aplicación de patrones de diseño, en definitiva mejorar mis habilidades de progración.**
 
 **Aplicación web para la gestión del seguimiento de envío de currículos a ofertas de empleo y/o prácticas en empresa.**
 
