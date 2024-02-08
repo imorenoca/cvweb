@@ -77,14 +77,14 @@ Los Requisitos Funcionales son los siguientes, agrupados por Casos de Uso
 
 **Pasos seguidos en el desarrollo del proyecto:** 
 
-* a.	Implementación de la base de datos diseñada.
-* b.	Realización del apartado de ofertas: listarlas, agregarlas, modificarlas y eliminarlas.
-* c.	Añadir Login y Registro a la aplicación.
-* d.	Desarrollo del Rol de administrador.
-* e.	Apartado de empresas: listarlas, agregarlas, modificarlas y eliminarlas.
-* f.	Apartado de envíos: listarlos, agregarlos, modificarlos y eliminarlos.
-* g.	Apartado de contactos: listarlos, agregarlos, modificarlos y eliminarlos.
-* h.	Revisión de menús, operatividad conjunta y funcionalidad general.
+* Implementación de la base de datos diseñada.
+* Realización del apartado de ofertas: listarlas, agregarlas, modificarlas y eliminarlas.
+* Añadir Login y Registro a la aplicación.
+* Desarrollo del Rol de administrador.
+* Apartado de empresas: listarlas, agregarlas, modificarlas y eliminarlas.
+* Apartado de envíos: listarlos, agregarlos, modificarlos y eliminarlos.
+* Apartado de contactos: listarlos, agregarlos, modificarlos y eliminarlos.
+* Revisión de menús, operatividad conjunta y funcionalidad general.
 
  
 
