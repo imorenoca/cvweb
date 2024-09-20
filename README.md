@@ -7,7 +7,7 @@ Este es mi Proyecto DAW para el Ciclo Formativo de Grado Superior de Desarrollo 
 
 **Aplicación web para la gestión del seguimiento de envío de currículos a ofertas de empleo y/o prácticas en empresa.**
 
-**Tiempo de realización:** 20/10/2023 a 05/12/2023
+**Tiempo de realización:** 20/10/2023 a 15/02/2024
 
 **Métodología utilizada:** Cascada e Iterativa Incremental.
 
